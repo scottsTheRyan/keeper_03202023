@@ -1,12 +1,10 @@
 import React from "react";
-
+import Header from "./Header";
 
 
 function App(){
   return (
-    <header>
-      <h1>Howdy from App.js</h1>
-    </header>
+    <Header />
   );
 }
 
